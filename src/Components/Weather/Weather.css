@@ -1,0 +1,11 @@
+.MuiCardMedia-root{
+    padding:2px;
+    background: rgb(103,180,58);
+    background: linear-gradient(173deg, rgba(103,180,58,1) 0%, rgba(29,203,253,0.4766281512605042) 50%, rgba(133,69,252,0.28335084033613445) 100%);
+}
+
+.MuiGrid-container{
+    max-width: 600px;
+    
+    margin:auto;
+}
